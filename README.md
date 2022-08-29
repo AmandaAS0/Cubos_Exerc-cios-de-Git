@@ -1,2 +1,2 @@
-# Cubos_Exerc-cios-de-Git
+#cubos_exercicios_git
 Aula 29/08/22
